@@ -40,3 +40,5 @@ set background=dark
 " Sets simple color scheme, for now.
 colorscheme default
 
+" Enables mouse support.
+set mouse=a
